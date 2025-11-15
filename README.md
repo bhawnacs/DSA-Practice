@@ -17,6 +17,6 @@ Practicing **DSA in C#**, **SQL queries**, and **LeetCode problems** to sharpen 
 
 ---
 
-### 🌱 Goal
+### Goal
 Daily learning, consistency, and improving logical thinking.
 
